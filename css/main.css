@@ -1,0 +1,35 @@
+ .container-fluid.p-0{
+  background-color: aquamarine;
+}
+
+.row{
+  padding:0;
+}
+
+.col-border {
+    border: 5px solid rgb(0, 0, 0);
+}
+
+.rectangulo-verde {
+    background-color: #00ff00;
+    height: 50px;
+}
+
+.cuadro-numero {
+    background-color: #87aade;
+}
+
+.cuadro-letra {
+  background-color: #adadad;
+}
+.cuadro-coral{
+  background-color: coral;
+}
+
+.h3{
+  text-align: center;
+}
+
+.col-xl-3.col-md-2.col-6.offset-xl-0{
+margin-left: 20px;
+}
